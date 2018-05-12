@@ -1,0 +1,30 @@
+_repo: The-Underpup_33212
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wylie, I. A. R. (Ida Alexa Ross)
+    alias: Wylie, Ida Alexa Ross
+    birthdate: 1885
+    deathdate: 1959
+    gutenberg_agent_id: '2583'
+    url: http://www.gutenberg.org/2009/agents/2583
+    wikipedia: http://en.wikipedia.org/wiki/Ida_Alexa_Ross_Wylie
+description: ''
+gutenberg_issued: '2010-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Girls -- Fiction'
+- !lcsh 'Camps -- Fiction'
+- !lcsh 'Short stories'
+title: The Underpup
+url: http://www.gutenberg.org/ebooks/33212
